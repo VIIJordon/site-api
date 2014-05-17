@@ -1,4 +1,4 @@
 site-api
 ========
 
-Goliath powered api for persisting data in Mongo
+Grape api using thin for persisting configuration data in Mongo
